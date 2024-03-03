@@ -6,3 +6,6 @@ dataset_cnn:
 
 dataset_gan:  
 - Microstructures of dual-phase steel based on the phase-field method (images)  
+
+shape of images: (32,32,3)  
+shaope of stress_streain: (9,)  
